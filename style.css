@@ -92,6 +92,7 @@ article h2 {
 
 article h2:hover {
     background-color: #ff000056;
+    transition: 0.7s all;
 }
 
 article p {
@@ -144,5 +145,6 @@ footer a {
 footer a:hover {
     text-decoration: underline;
     color: rgb(255, 98, 98);
+    transition: 0.7s all;
 }
 
